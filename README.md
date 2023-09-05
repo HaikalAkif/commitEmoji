@@ -5,7 +5,7 @@ I created this repo also to help beginner coder adapt with github environment an
 
 Inspired by <a href="https://github.com/dannyfritz/commit-message-emoji">dannyfritz
 /
-commit-message-emoji</a>
+commit-message-emoji</a><br>
 You can also check it out at <a href="https://gitmoji.dev/">gitmoji</a>
 
 ## Emoji to Use
@@ -31,9 +31,9 @@ You can also check it out at <a href="https://gitmoji.dev/">gitmoji</a>
 | Reverting                   | :rewind: `:rewind:`                           |
 | Rename repository           | :truck: `:truck:`                             |
 
-** How to Use
+## How to Use
 
-Start your commit message with the emoji followed by message in this format: `<emoji> message`
+Start your commit message with the emoji followed by message in this format: `<emoji> message`<br>
 For Example: `🎉 Initial Commit`
 
 
