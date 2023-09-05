@@ -21,7 +21,7 @@ You can also check it out at <a href="https://gitmoji.dev/">gitmoji</a>
 | Improve Format/Structure    | :art: `:art:`                                 |
 | Fixed Bugs                  | :bug: `:bug:`                                 |
 | Tests                       | :rotating_light: `:rotating_light:`           |
-| Make a Eest Pass            | :heavy_check_mark: `:heavy_check_mark:`       |
+| Make a Test Pass            | :heavy_check_mark: `:heavy_check_mark:`       |
 | Removing Code/Files         | :fire: `:fire:`                               |
 | Security                    | :lock: `:lock:`                               |
 | Text                        | :pencil: `:pencil:`                           |
@@ -36,6 +36,15 @@ You can also check it out at <a href="https://gitmoji.dev/">gitmoji</a>
 Start your commit message with the emoji followed by message in this format: `<emoji> message`<br>
 For Example: `🎉 Initial Commit`
 
+## Device Shortcut
 
+Some people might code in different code editor and device, so here is the shortcut key for whoever wonder how to use emoji
+
+```
+Windows: Window + .
+Mac: CTRL + CMD + Space
+```
+
+<p align="right"><a href="#Geotracker">back to top</a></p>
 
 
