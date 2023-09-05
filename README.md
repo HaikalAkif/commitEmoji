@@ -1,6 +1,6 @@
 # Emoji for Commit Message
 
-Emojis in GitHub commit messages bring clarity, emotion, and personality to your code contributions, making collaboration more engaging and expressive. 😄🚀👍
+Emojis in GitHub commit messages bring clarity, emotion, and personality to your code contributions, making collaboration more engaging and expressive. 😄🚀👍<br>
 I created this repo also to help beginner coder adapt with github environment and as the reminder for my personal usage
 
 Inspired by <a href="https://github.com/dannyfritz/commit-message-emoji">dannyfritz
